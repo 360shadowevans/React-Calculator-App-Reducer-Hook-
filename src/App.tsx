@@ -9,7 +9,7 @@ const ACTIONS = {
 
 function reducer(state, { type, paylaod}) {
   
-}
+} 
 
 
 function App() {
