@@ -6,7 +6,7 @@ const ACTIONS = {
   CLEAR : 'clear',
   DELETE_DIGIT: 'delete-digit'
 }
-
+ 
 function reducer(state, { type, paylaod}) {
   
 } 
